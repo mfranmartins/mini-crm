@@ -10,5 +10,17 @@
     "email": "j@b.com",
     "stage": "Novo",
     "created": "2026-09-18"
+  },
+  {
+    "name": "Maria",
+    "email": "m@b.com",
+    "stage": "novo",
+    "created": "2026-10-02"
+  },
+  {
+    "name": "Maria Clara",
+    "email": "mc@b.com",
+    "stage": "novo",
+    "created": "2026-10-02"
   }
 ]
